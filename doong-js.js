@@ -18,6 +18,6 @@ window.onscroll = function(){
 		moniter.innerHTML = t
 
 		if (t > 4620) {
-			location.href = "https://jjoohee.github.io/battle_0826/";
+			location.href = "https://jjoohee.github.io/battle_0901/";
 		}
 }
